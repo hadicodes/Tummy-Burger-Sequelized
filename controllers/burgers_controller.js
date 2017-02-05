@@ -22,7 +22,7 @@ router.get("/", function(req, res) {
 router.post("/", function(req, res) {
     db.burger.create({ burger_name: req.body.burger_name })
         .then(function(data) {
-            res.redirect('/');
+            res.redirect("/#scroll-spot");
         });
 });
 
@@ -37,7 +37,7 @@ router.put("/:id", function(req, res) {
             }
         })
         .then(function() {
-            res.redirect("/");
+            res.redirect("/#scroll-spot");
         });
 });
 
