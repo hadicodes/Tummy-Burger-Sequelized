@@ -45,14 +45,12 @@ By visiting http://localhost:PORT (in this project, the PORT is either the one a
 
 
 ### Author
-* **[Hadi Yousufi](https://github.com/hadicodes)
+* [Hadi Yousufi](https://github.com/hadicodes)
 
 ### License
 This project is licensed under the MIT [License](https://github.com/hadicodes/Tummy-Burger-Sequelized/blob/master/LICENSE.md)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 
 
 
-### Acknowledgments
-
-* NU Coding Boot Camp Staff
