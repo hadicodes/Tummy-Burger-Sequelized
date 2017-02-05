@@ -48,8 +48,7 @@ By visiting http://localhost:PORT (in this project, the PORT is either the one a
 * **[Hadi Yousufi](https://github.com/hadicodes)
 
 ### License
-This project is licensed under the MIT [License](https://opensource.org/licenses/MIT)
-### The MIT License
+This project is licensed under the MIT [License](https://github.com/hadicodes/Tummy-Burger-Sequelized/blob/master/LICENSE.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 
 
