@@ -24,24 +24,20 @@ This app was made using Sequelize as the ORM to simplify the database interactio
 
 
 ### Getting Started
-This app is made possible with the following npm packages:
+This app is built with anf made possible with the following npm packages:
 * express
 * body-parser
 * sequelize
 * path
 * method-override
 
+Type `npm install` in command line to install all the dependcies located within package.json
+
 In order to connect to the Tummy Burger Sequelized app server, type the following in the command line:
 
- node server.js
+ `node server.js`
 
-By visiting http://localhost:PORT (in this project, the PORT is either the one available in the Node environment or 8080), one is directed to this web app after connecting to the server.
-
-
-
-###Built With
-* Node.js
-* Sublime Text
+By visiting http://localhost:PORT (in this project, the PORT is either the one available in the Node environment or 3000), one is directed to this web app after connecting to the server.
 
 
 ### Author
