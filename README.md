@@ -44,17 +44,16 @@ By visiting http://localhost:PORT (in this project, the PORT is either the one a
 * Sublime Text
 
 
-## Author
-* **Hadi Yousufi** - [Hadi Yousufi](https://github.com/hadicodes)
+### Author
+* **[Hadi Yousufi](https://github.com/hadicodes)
 
-## License
-## MIT
+### License
+This project is licensed under the MIT [License](https://opensource.org/licenses/MIT)
 ### The MIT License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
-`[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)`
 
 
 
-## Acknowledgments
+### Acknowledgments
 
 * NU Coding Boot Camp Staff
