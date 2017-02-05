@@ -7,4 +7,4 @@ Tummy Burger is a fun little restaurant app that lets users input the names of b
 * Each burger in the waiting area also has a Devour it! button. When the user clicks it, the burger will move to the right side of the page.
 * The app will store every burger in a database, whether devoured or not.
 
-## See it live here: 
+## See it live here: https://aqueous-chamber-62228.herokuapp.com/
