@@ -8,3 +8,53 @@ Tummy Burger is a fun little restaurant app that lets users input the names of b
 * The app will store every burger in a database, whether devoured or not.
 
 ## See it live here: https://aqueous-chamber-62228.herokuapp.com/
+
+This app was made using Sequelize as the ORM to simplify the database interactions.
+
+---
+
+### Pre-requisites
+
+* Install Node.js. visit https://nodejs.org/en/ and download
+
+### Technologies used
+
+*node.js
+*Express.js
+
+
+### Getting Started
+This app is made possible with the following npm packages:
+* express
+* body-parser
+* sequelize
+* path
+* method-override
+
+In order to connect to the Tummy Burger Sequelized app server, type the following in the command line:
+
+ node server.js
+
+By visiting http://localhost:PORT (in this project, the PORT is either the one available in the Node environment or 8080), one is directed to this web app after connecting to the server.
+
+
+
+###Built With
+* Node.js
+* Sublime Text
+
+
+## Author
+* **Hadi Yousufi** - [Hadi Yousufi](https://github.com/hadicodes)
+
+## License
+## MIT
+### The MIT License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+`[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)`
+
+
+
+## Acknowledgments
+
+* NU Coding Boot Camp Staff
